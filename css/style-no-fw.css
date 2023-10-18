@@ -1,0 +1,13 @@
+/* style */
+header.header-body{
+    display: flex ;
+    align-items: center;
+    justify-content:space-between;
+    padding-inline: 14px;
+    padding-block: 32px;
+}
+header .sidebar-box .btn-list{
+    background-color: transparent;
+    border: none;
+    color: var(--gray900);
+}
