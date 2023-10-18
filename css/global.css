@@ -2,9 +2,11 @@
 /* colors */
 :root{
     --blue900:#1c39bb;
+    --blue800:rgba(28, 57, 187, 0.8);
     --gray900:#595b61;
     --dark:#2a2a2e;
 }
+
 .text-gray900{
     color: var(--gray900);
 }
@@ -16,6 +18,11 @@
 }
 
 /* global */
+
+html {
+    max-width: 360px;
+    margin-inline: auto;
+}
 /* mobile */
 .mobile-maxw {
     max-width: 768px;

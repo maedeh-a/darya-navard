@@ -20,3 +20,14 @@ header button .bi-list{
 .footer-box .footer-link.active i{
     color: var(--blue900);
 }
+
+
+.icon-box {
+    width: 80px;
+    height: 80px;
+    display: grid;
+    place-items: center;
+    background: var(--blue800);
+    border-radius: 30px;
+    margin-bottom: 8px;
+}
