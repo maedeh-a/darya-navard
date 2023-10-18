@@ -25,7 +25,7 @@ header .sidebar-box .btn-list i{
 .head-line-box{
     display: flex;
     align-items: center;
-    margin-block: 32px;
+    margin-block: 32px 2px;
 }
 .head-line-box .title-head-line{
     font-size: 14px;
@@ -82,7 +82,7 @@ footer .footer-box{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-inline: 16px;
+    padding-inline: 40px;
 }
 footer .footer-box .footer-link{
     display: flex;
