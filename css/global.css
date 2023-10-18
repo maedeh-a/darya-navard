@@ -1,0 +1,22 @@
+@import url(/css/style.css);
+/* colors */
+:root{
+    --blue900:#1c39bb;
+    --gray900:#595b61;
+    --dark:#2a2a2e;
+}
+.text-gray900{
+    color: var(--gray900);
+}
+.text-blue900 {
+    color: var(--blue900);
+}
+.bg-blu900{
+    background-color: var(--blue900);
+}
+
+/* global */
+/* mobile */
+.mobile-maxw {
+    max-width: 768px;
+}

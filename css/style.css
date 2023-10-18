@@ -1,0 +1,22 @@
+/* style */
+header button .bi-list{
+    font-size: xx-large;
+}
+.mobile-maxw .bi-file-earmark-text{
+    font-size: 50px;
+}
+.line4851{
+    height: 1px;
+}
+.registration-requests-box i{
+    font-size:35px;
+}
+.footer-box .footer-link i{
+    font-size: x-large;
+}
+.footer-box .footer-link.active{
+    color: var(--dark);
+}
+.footer-box .footer-link.active i{
+    color: var(--blue900);
+}
