@@ -4,7 +4,8 @@
 :root{
     --blue900:#1c39bb;
     --blue800:rgba(28, 57, 187, 0.8);
-    --gray900:#595b61;
+    --gray100:#adadad;
+    --gray900: #595b61;
     --dark:#2a2a2e;
 }
 
