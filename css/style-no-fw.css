@@ -12,5 +12,50 @@ header .sidebar-box .btn-list{
     color: var(--gray900);
 }
 header .sidebar-box .btn-list i{
-    font-size: x-large;
+    font-size: xx-large;
+}
+.intro-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.head-line-box{
+    display: flex;
+    align-items: center;
+    margin-block: 32px;
+}
+.head-line-box .title-head-line{
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+.line4851{
+    flex-grow: 1;
+    border-top: 1px solid var(--gray900);
+    margin-block: auto;
+
+}
+.registration-requests-box{
+    display: flex;
+    flex-direction: column;
+    padding-inline: 32px;
+}
+.registration-requests{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.registration-requests .items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.registration-requests .items .registration-requests-link{
+    text-decoration: none;
+    font-size: 14px;
 }
