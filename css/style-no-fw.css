@@ -11,3 +11,6 @@ header .sidebar-box .btn-list{
     border: none;
     color: var(--gray900);
 }
+header .sidebar-box .btn-list i{
+    font-size: x-large;
+}
